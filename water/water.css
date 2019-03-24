@@ -1,0 +1,54 @@
+body {
+  margin-top: 0;
+}
+
+.topnav {
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #4286f4;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+}
+
+.topnav a.active {
+  background-color: #4286f4;
+  color: white;
+}
+
+.content {
+  margin: 40px auto;
+  width: 650px;
+}
+
+.black-box {
+  color: white;
+  background-color: #4286f4;
+  padding: 15px;
+  display: inline-block;
+  width: 400px;
+}
+
+#goal_6_logo {
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #444;
+}
+
+p {
+  color: #444;
+  line-height: 1.6;
+  font-size: 18px;
+}
