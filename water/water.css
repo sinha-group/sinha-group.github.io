@@ -37,7 +37,7 @@ body {
   width: 400px;
 }
 
-#goal_6_logo {
+#header-img {
   width: 200px;
   height: 200px;
   float: left;
@@ -47,8 +47,27 @@ h1, h2, h3, h4, h5, h6 {
   color: #444;
 }
 
-p {
+p, a {
   color: #444;
   line-height: 1.6;
   font-size: 18px;
+}
+
+li > p {
+  display: inline-block;
+  padding-right: 20px;
+}
+
+
+
+.contact li {
+  list-style: none;
+}
+
+.contact a {
+  text-decoration: none;
+}
+
+.contact img {
+  padding-right: 5px;
 }
