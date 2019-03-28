@@ -58,8 +58,6 @@ li > p {
   padding-right: 20px;
 }
 
-
-
 .contact li {
   list-style: none;
 }
@@ -70,4 +68,8 @@ li > p {
 
 .contact img {
   padding-right: 5px;
+}
+
+ol > li {
+  margin-bottom: 10px;
 }
