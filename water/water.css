@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #444;
 }
 
-p, a {
+p, a, li {
   color: #444;
   line-height: 1.6;
   font-size: 18px;
